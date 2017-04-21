@@ -16,6 +16,10 @@ bady {
   color: #ff4379;
 }
 
+a:hover {
+  text-decoration: none;
+}
+
 .pa {
   background-repeat: no-repeat;
   background-position: center top;
