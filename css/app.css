@@ -26,7 +26,9 @@ body {
 }
 
 .header-bg {
+  filter: alpha(opacity=60);
   background-color: #FFF;
+  background-color: rgba(255, 255, 255, .6);
 }
 
 .header {
