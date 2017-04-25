@@ -12,9 +12,38 @@ body {
   text-align: center;
 }
 
+.w {
+  width: 1200px;
+  margin: 0 auto;
+}
+
 .red {
   color: #ff4379;
 }
+
+.padding-y_10 {
+  padding: 10px 0;
+}
+
+.header {
+  position: relative;
+}
+
+.header span {
+  height: 44px;
+  line-height: 44px;
+  display: inline-block;
+}
+
+.return-home {
+  position: absolute;
+  right: 10px;
+}
+
+
+/*a {
+  text-decoration: none;
+}*/
 
 a:hover {
   text-decoration: none;
@@ -48,9 +77,4 @@ a:hover {
 .p5 {
   height: 96px;
   background-image: url(../img/bg5.png)
-}
-
-.p6 {
-  height: 432px;
-  background-image: url(../img/p6.jpg)
 }
