@@ -25,6 +25,10 @@ body {
   padding: 10px 0;
 }
 
+.header-bg {
+  background-color: #FFF;
+}
+
 .header {
   position: relative;
 }
