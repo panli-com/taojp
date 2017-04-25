@@ -26,46 +26,31 @@ a:hover {
 }
 
 .p1 {
-  height: 450px;
-  background-image: url(../img/p1.jpg)
+  height: 889px;
+  background-image: url(../img/bg1.png)
 }
 
 .p2 {
-  height: 429px;
-  background-image: url(../img/p2.jpg)
+  height: 1378px;
+  background-image: url(../img/bg2.png)
 }
 
 .p3 {
-  height: 362px;
-  background-image: url(../img/p3.jpg)
+  height: 1556px;
+  background-image: url(../img/bg3.png)
 }
 
 .p4 {
-  height: 734px;
-  background-image: url(../img/p4.jpg)
+  height: 665px;
+  background-image: url(../img/bg4.png)
 }
 
 .p5 {
-  height: 399px;
-  background-image: url(../img/p5.jpg)
+  height: 96px;
+  background-image: url(../img/bg5.png)
 }
 
 .p6 {
   height: 432px;
   background-image: url(../img/p6.jpg)
-}
-
-.p7 {
-  height: 1077px;
-  background-image: url(../img/p7.jpg)
-}
-
-.p8 {
-  height: 610px;
-  background-image: url(../img/p8.jpg)
-}
-
-.p9 {
-  height: 91px;
-  background-image: url(../img/p9.jpg)
 }
